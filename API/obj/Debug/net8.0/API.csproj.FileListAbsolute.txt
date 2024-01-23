@@ -125,3 +125,4 @@ C:\Users\AnithaAasadi\source\repos\ReStore\API\bin\Debug\net8.0\ru\Microsoft.Cod
 C:\Users\AnithaAasadi\source\repos\ReStore\API\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\AnithaAasadi\source\repos\ReStore\API\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Users\AnithaAasadi\source\repos\ReStore\API\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\AnithaAasadi\source\repos\ReStore\API\obj\Debug\net8.0\API.sourcelink.json
